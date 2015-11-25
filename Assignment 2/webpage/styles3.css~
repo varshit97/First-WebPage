@@ -1,0 +1,8 @@
+#div1{
+border:15px solid transparant;
+width:250px;
+padding:10px 20px;}
+#div1{
+border-image: url("blue.png") 30 30 round;}
+
+

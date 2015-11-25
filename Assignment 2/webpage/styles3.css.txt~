@@ -1,0 +1,8 @@
+div{
+border:15px solid transperant;
+width:250px;
+padding:10px 20px;}
+#round{
+border-image:url(butter.gif) 30 30 round;}
+#head{
+color:red;}

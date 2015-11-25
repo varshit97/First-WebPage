@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>SIGN UP!!</title>
+<link rel="stylesheet" type="text/css" href="styles3.css">
+ </head>
+ <body>
+ <h2 id="head">FOR LATEST UPDATES ABOUT HOLMES FILL THE FOLLOWING:</h2>
+  <form>
+  FIRSTNAME:<input type="text" name="Firstname"><br><br>
+  LASTNAME:<input type="text" name="Lastname"><br><br>
+  AGE:<input type="text" name="Age"><br><br>
+  SEX:<input type="radio" name="Sex" value="Male">MALE<br>
+      <input type="radio" name="Sex" value="Female">FEMALE
+  </form>
+  <p>BLOOD GROUP:</p>
+  <select>
+  <option value="A +ve">A +ve</option>
+  <option value="A -ve">A -ve</option>
+  <option value="B +ve">B +ve</option>
+  <option value="B -ve">B -ve</option>
+  <option value="O +ve">O +ve</option>
+  <option value="O -ve">O -ve</option>
+  <option value="AB +ve">AB +ve</option>
+  <option value="AB -ve">AB -ve</option>
+  </select>
+  <br><br>
+  <form>
+  PASSWORD:<input type="password" name="pwd"><br><br>
+  RE-TYPE YOUR PASSWORD:<input type="password" name="pwd">
+  </form>
+<br>
+<form>
+  E-MAIL:<input type="text" name="E-MAIL">@
+<select>
+  <option value="gmail">gmail</option>
+<option value="yahoo">yahoo</option>
+<option value="rediff">rediff</option>
+<option value="hotmail">hotmail</option>
+</select>
+.com
+</form>
+  <p>ANY OTHER COMMENTS:</p>
+  <textarea rows="6" cols="60"></textarea>
+  <form name="input" action="demo_form_action" method="get">
+<br>
+  <a href="wb4.html">"SUBMIT"</a>
+  </form>
+ </body>
+</html>

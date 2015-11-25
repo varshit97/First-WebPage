@@ -1,0 +1,68 @@
+body {
+    background-image: url("image.jpg");
+}
+
+#head1a {
+    color: #FF4500;
+}
+
+.ul1a {
+    color: #9932CC;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.head3a {
+    color: black;
+}
+
+img {
+    float: left;
+}
+
+.para {
+    color: red;
+}
+
+#div2 {
+    width: 700px;
+    height: 50px;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+#div2:hover {
+    width: 200px;
+    height: 200px;
+    transform: rotate(-60deg);
+}
+
+#div2 {
+    margin-left: 40%;
+}
+
+#img3 {
+    width: 400px;
+    height: 300px;
+    margin-left: 35%;
+}
+
+.time {
+    position: fixed;
+    top: 30px;
+    right: 10px;
+    color: black;
+}
+
+#img1 {
+    width: 300px;
+    height: 400px;
+    border: 10px solid #F00;
+    overflow: hidden;
+    transition: width 2s, height 2s,transform 3s;
+}
+
+#img1:hover {
+    transform: rotate(10deg);
+}

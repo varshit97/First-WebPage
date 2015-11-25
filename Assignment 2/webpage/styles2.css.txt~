@@ -1,0 +1,14 @@
+body{
+background-image:url("SteampunkHelen.gif");}
+#head1a{
+color:#00FF00;}
+#ul1a{
+color:#FF8C00;}
+ul{
+list-style-type:square;}
+#head3a{
+color:#00FFFF;}
+img{
+float:left;}
+#para{
+color:red;}

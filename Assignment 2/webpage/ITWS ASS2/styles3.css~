@@ -1,0 +1,9 @@
+div{
+border:15px solid transperant;
+width:250px;
+padding:10px 20px;}
+#round{
+border-image: url(reds.png) 30 30 round;}
+
+
+

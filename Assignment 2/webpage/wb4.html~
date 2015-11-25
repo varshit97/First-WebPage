@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="styles4.css">
+<title>THANK YOU</title>
+</head>
+<body>
+<div id="div1">THANK YOU FOR REGISTERING WITH US.</div>
+<p>CHECK YOUR MAIL FOR UPDATES!!</p>
+<p>HAVE A NICE DAY</p>
+<img src="Smiley-1.jpg" alt="" title="GOOD LUCK!!">
+<a href="wb.html">BACK HOME</a>
+</body>
+</html>

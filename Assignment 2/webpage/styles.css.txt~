@@ -1,0 +1,83 @@
+body{
+background-image: url("SteampunkHelen.gif");}
+#img1{
+float:right;
+}
+#img2{
+float:left;
+}
+#img3{
+float:right;
+}
+#head1{
+text-shadow: 5px 5px 5px #0000FF;
+color: yellow;
+text-align: center;
+}
+#head2{
+text-align: center;
+color:white;}
+#head2a{
+color: #00FF00;}
+#head2b{
+color: #00FFFF;}
+#ul1a{
+color: #BA55D3;}
+#head2c{
+color: #DC143C;}
+#head3b{
+color: #FF4500;}
+#head4a{
+color: #FFD700;}
+#head4d{
+color: #FF4500;}
+#para1{
+color: #FF0000;}
+#para{
+color:white;}
+#div1{
+text-align: center;
+}
+#head3,#head3a{
+text-align:center;
+color:red;}
+#form1,#form2{
+text-align:center;
+color:blue;}
+ul{
+list-style-type: square;
+}
+#head3c{
+color: #FF8C00;}
+#head3e{
+text-align: right;
+color: #00FF00;}
+#head3f{
+color:#B22222;}
+#a1{
+color: #7FFFD4;}
+#head3d{
+color: #00FF00;}
+#ul1b{
+color: #FF8C00;}
+#vid1{
+float:right;
+}
+div{
+width:500px;
+height:50px;
+background:red;
+position:relative;
+align-self: center;
+-moz-animation-name: mymove;
+-moz-animation-duration: 5s;
+-moz-animation-timing-function: ease-in;
+-moz-animation-delay: 3s;
+-moz-animation-iteration-count: infinite;
+-moz-animation-direction: alternate;
+-moz-animation-play-state: running;}
+@-moz-keyframes mymove{
+0%{background:red;left:0px;top:0px;}
+25%{background:yellow;left:500px;top:0px;}
+50%{backround:blue;left:500px;top:500px;}
+75%{background:red;left:0px;top:0px;}}
